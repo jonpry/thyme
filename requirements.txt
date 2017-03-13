@@ -1,0 +1,10 @@
+asgiref==1.0.0
+channels==1.0.3
+Django==1.10.6
+gevent==1.2.1
+psycogreen==1.0
+redis==2.10.5
+requests==2.12.4
+six==1.10.0
+gevent_websocket==0.10.1
+msgpack_python==0.4.8
